@@ -1,0 +1,34 @@
+﻿  Date Library.cpp
+C:\Users\AS\Desktop\Projects\Date Library\DateLibrary.h(169,8): error C2365: 'DateLibrary::DayOfWeekOrder': redefinition; previous definition was 'function'
+C:\Users\AS\Desktop\Projects\Date Library\DateLibrary.h(169,23): error C2065: 'sDate': undeclared identifier
+C:\Users\AS\Desktop\Projects\Date Library\DateLibrary.h(169,29): error C2146: syntax error: missing ')' before identifier 'Date'
+C:\Users\AS\Desktop\Projects\Date Library\DateLibrary.h(170,2): error C2143: syntax error: missing ';' before '{'
+C:\Users\AS\Desktop\Projects\Date Library\DateLibrary.h(170,2): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\AS\Desktop\Projects\Date Library\DateLibrary.h(418,73): error C2572: 'DateLibrary::GetDifferenceInDays': redefinition of default argument: parameter 1
+C:\Users\AS\Desktop\Projects\Date Library\DateLibrary.h(418,6): error C2084: function 'int DateLibrary::GetDifferenceInDays(DateLibrary::sDate,DateLibrary::sDate,bool)' already has a body
+C:\Users\AS\Desktop\Projects\Date Library\DateLibrary.h(691,10): error C2660: 'DateLibrary::DayOfWeekOrder': function does not take 1 arguments
+C:\Users\AS\Desktop\Projects\Date Library\DateLibrary.h(697,20): error C2660: 'DateLibrary::DayOfWeekOrder': function does not take 1 arguments
+C:\Users\AS\Desktop\Projects\Date Library\DateLibrary.h(715,14): error C2660: 'DateLibrary::DayOfWeekOrder': function does not take 1 arguments
+C:\Users\AS\Desktop\Projects\Date Library\DateLibrary.h(726,10): error C2264: 'DateLibrary::GetDifferenceInDays': error in function definition or declaration; function not called
+C:\Users\AS\Desktop\Projects\Date Library\DateLibrary.h(737,10): error C2264: 'DateLibrary::GetDifferenceInDays': error in function definition or declaration; function not called
+C:\Users\AS\Desktop\Projects\Date Library\DateLibrary.h(846,10): error C2264: 'DateLibrary::GetDifferenceInDays': error in function definition or declaration; function not called
+C:\Users\AS\Desktop\Projects\Date Library\DateLibrary.h(855,7): error C2084: function 'bool DateLibrary::IsOverlapPeriods(DateLibrary::stPeriod,DateLibrary::stPeriod)' already has a body
+C:\Users\AS\Desktop\Projects\Date Library\DateLibrary.h(870,8): error C2264: 'DateLibrary::IsOverlapPeriods': error in function definition or declaration; function not called
+C:\Users\AS\Desktop\Projects\Date Library\DateLibrary.h(938,24): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\AS\Desktop\Projects\Date Library\DateLibrary.h(986,13): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\AS\Desktop\Projects\Date Library\DateLibrary.h(992,17): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\AS\Desktop\Projects\Date Library\Date Library.cpp(52,11): error C2374: 'Month3': redefinition; multiple initialization
+C:\Users\AS\Desktop\Projects\Date Library\Date Library.cpp(53,11): error C2374: 'Year5': redefinition; multiple initialization
+C:\Users\AS\Desktop\Projects\Date Library\Date Library.cpp(113,36): error C2264: 'DateLibrary::GetDifferenceInDays': error in function definition or declaration; function not called
+C:\Users\AS\Desktop\Projects\Date Library\Date Library.cpp(114,56): error C2264: 'DateLibrary::GetDifferenceInDays': error in function definition or declaration; function not called
+C:\Users\AS\Desktop\Projects\Date Library\Date Library.cpp(120,35): error C2264: 'DateLibrary::GetDifferenceInDays': error in function definition or declaration; function not called
+C:\Users\AS\Desktop\Projects\Date Library\Date Library.cpp(126,36): error C2264: 'DateLibrary::GetDifferenceInDays': error in function definition or declaration; function not called
+C:\Users\AS\Desktop\Projects\Date Library\Date Library.cpp(127,56): error C2264: 'DateLibrary::GetDifferenceInDays': error in function definition or declaration; function not called
+C:\Users\AS\Desktop\Projects\Date Library\Date Library.cpp(130,11): error C2086: 'DateLibrary::sDate Date14': redefinition
+C:\Users\AS\Desktop\Projects\Date Library\Date Library.cpp(199,43): error C2660: 'DateLibrary::DayOfWeekOrder': function does not take 1 arguments
+C:\Users\AS\Desktop\Projects\Date Library\Date Library.cpp(211,52): error C2660: 'DateLibrary::DayOfWeekOrder': function does not take 1 arguments
+C:\Users\AS\Desktop\Projects\Date Library\Date Library.cpp(232,52): error C2660: 'DateLibrary::DayOfWeekOrder': function does not take 1 arguments
+C:\Users\AS\Desktop\Projects\Date Library\Date Library.cpp(234,51): error C2660: 'DateLibrary::DayOfWeekOrder': function does not take 1 arguments
+C:\Users\AS\Desktop\Projects\Date Library\Date Library.cpp(241,11): error C2086: 'DateLibrary::sDate DateFrom': redefinition
+C:\Users\AS\Desktop\Projects\Date Library\Date Library.cpp(244,49): error C2660: 'DateLibrary::DayOfWeekOrder': function does not take 1 arguments
+C:\Users\AS\Desktop\Projects\Date Library\Date Library.cpp(270,9): error C2264: 'DateLibrary::IsOverlapPeriods': error in function definition or declaration; function not called
