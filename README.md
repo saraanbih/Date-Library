@@ -36,10 +36,6 @@ The **Date Library** includes the following features:
 2. **Explore the Functions**:  
    - Check out the `Date.h` file for the list of available functions and their descriptions.
    
-3. **Example Usage**:  
-   - You can call functions like `IsLeapYear(Year)` or `subtractDays(Date, int)` to modify a date, `addTime(Date, int hours, int minutes, int seconds)` to add time to a date, or use `compareDates(Date, Date)` to compare two dates.
-   - For time operations, you can use `addHours(Date, int)`, `subtractMinutes(Date, int)`, or `calculateDuration(Time1, Time2)` to get the difference between two times.
-
 ---
 
 ## **Future Enhancements**  
