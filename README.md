@@ -1,6 +1,6 @@
 # **Date Library**  
 
-Hi everyone, welcome to my **Date Library** project! 🎉  
+Hi everyone, welcome to my **Date Library** 🎉  
 This library contains a collection of functions related to dates and times, designed to make date and time manipulations easier and more efficient.
 
 ---
